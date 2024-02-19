@@ -12,7 +12,7 @@ Connect 4 is a two-player connection game in which players choose a color and th
 
 ### How to Play
 
-To play Connect 4, follow these steps:
+To play any game, follow these steps:
 
 1. Compile the `<game>.c` file using a C compiler.
    ```bash
